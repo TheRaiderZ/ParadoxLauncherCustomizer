@@ -15,6 +15,7 @@ using Newtonsoft.Json.Converters;
 namespace ParadoxLauncherCustomizer
 {
 
+    
     public partial class LauncherSettings
     {
         [JsonProperty("background")]
